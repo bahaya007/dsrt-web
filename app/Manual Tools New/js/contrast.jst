@@ -1,0 +1,15 @@
+export function applyContrast(imageData, value) {
+  const data = imageData.data;
+  const factor = (259 * (value + 255)) / (255 * (259 - value)); // rumus contrast
+
+  for (let i = 0; i < data.length; i += 4) {
+    data[i] = clamp(factor * (data[i] - 128) + 128, 0, 255);     // R
+    data[i + 1] = clamp(factor * (data[i + 1] - 128) + 128, 0, 255); // G
+    data[i + 2] = clamp(factor * (data[i + 2] - 128) + 128, 0, 255); // B
+  }
+  return imageData;
+}
+
+function clamp(value, min, max) {
+  return Math.min(Math.max(value, min), max);
+}
