@@ -1,1 +1,37 @@
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DSRT Manual Tools</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <h1>DSRT Manual Tools</h1>
+
+  <canvas id="canvas"></canvas>
+
+  <label for="brightness">Brightness</label>
+  <input type="range" id="brightness" min="-100" max="100" value="0" />
+
+  <label for="contrast">Contrast</label>
+  <input type="range" id="contrast" min="-100" max="100" value="0" />
+
+  <label for="saturation">Saturation</label>
+  <input type="range" id="saturation" min="-100" max="100" value="0" />
+
+  <label for="rotate">Rotate (derajat)</label>
+  <input type="range" id="rotate" min="0" max="360" value="0" />
+
+  <div>
+    <button id="crop-btn">Crop 300x300</button>
+    <button id="reset-btn">Reset</button>
+    <button id="undo-btn">Undo</button>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
+
+</body>
+</html>
