@@ -1,0 +1,119 @@
+/* basic/preset1.css */
+.preset1 {
+  filter: brightness(1.1) contrast(1.05);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset2.css */
+.preset2 {
+  filter: contrast(1.1) saturate(1.05) drop-shadow(0 0 0.1rem rgba(0,0,0,0.05));
+  transition: all 0.3s ease;
+}
+
+/* basic/preset3.css */
+.preset3 {
+  filter: contrast(0.9) brightness(1.05);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset4.css */
+.preset4 {
+  filter: brightness(1.2);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset5.css */
+.preset5 {
+  filter: saturate(1.1);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset6.css */
+.preset6 {
+  filter: brightness(0.95) contrast(1.1);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset7.css */
+.preset7 {
+  filter: grayscale(0.1);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset8.css */
+.preset8 {
+  filter: contrast(1.15) brightness(1);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset9.css */
+.preset9 {
+  filter: brightness(1.05) saturate(1.05);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset10.css */
+.preset10 {
+  filter: contrast(1.1) brightness(1.1);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset11.css */
+.preset11 {
+  filter: saturate(1.2);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset12.css */
+.preset12 {
+  filter: brightness(0.9) contrast(0.95);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset13.css */
+.preset13 {
+  filter: brightness(1) contrast(1.2);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset14.css */
+.preset14 {
+  filter: brightness(1.1) saturate(0.95);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset15.css */
+.preset15 {
+  filter: contrast(1.05) grayscale(0.05);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset16.css */
+.preset16 {
+  filter: brightness(1.05) drop-shadow(0 0 0.05rem rgba(0,0,0,0.1));
+  transition: all 0.3s ease;
+}
+
+/* basic/preset17.css */
+.preset17 {
+  filter: saturate(1.1) contrast(1);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset18.css */
+.preset18 {
+  filter: brightness(1) contrast(1) saturate(1.1);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset19.css */
+.preset19 {
+  filter: brightness(0.95) saturate(1.05);
+  transition: all 0.3s ease;
+}
+
+/* basic/preset20.css */
+.preset20 {
+  filter: brightness(1.1) contrast(1.1) saturate(1.05);
+  transition: all 0.3s ease;
+}
