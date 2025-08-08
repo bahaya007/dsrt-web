@@ -1,0 +1,119 @@
+/* creative/preset1.css */
+.preset1 {
+  filter: sepia(0.5) contrast(1.3) saturate(1.2);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset2.css */
+.preset2 {
+  filter: grayscale(0.7) brightness(1.1);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset3.css */
+.preset3 {
+  filter: contrast(1.5) hue-rotate(45deg) saturate(1.4);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset4.css */
+.preset4 {
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.4)) saturate(1.2);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset5.css */
+.preset5 {
+  filter: brightness(0.8) sepia(0.6) saturate(1.3);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset6.css */
+.preset6 {
+  filter: invert(0.2) contrast(1.4) saturate(1.5);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset7.css */
+.preset7 {
+  filter: hue-rotate(90deg) saturate(1.8);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset8.css */
+.preset8 {
+  filter: grayscale(0.5) brightness(1.2) contrast(1.3);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset9.css */
+.preset9 {
+  filter: sepia(0.4) hue-rotate(-20deg) brightness(1.1);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset10.css */
+.preset10 {
+  filter: saturate(1.7) contrast(1.4);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset11.css */
+.preset11 {
+  filter: brightness(0.7) grayscale(0.3) saturate(1.2);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset12.css */
+.preset12 {
+  filter: contrast(1.6) sepia(0.3) brightness(1.05);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset13.css */
+.preset13 {
+  filter: invert(0.3) saturate(1.5);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset14.css */
+.preset14 {
+  filter: brightness(1.1) hue-rotate(60deg) saturate(1.6);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset15.css */
+.preset15 {
+  filter: sepia(0.5) contrast(1.3);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset16.css */
+.preset16 {
+  filter: brightness(0.9) grayscale(0.6) saturate(1.4);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset17.css */
+.preset17 {
+  filter: hue-rotate(120deg) saturate(2);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset18.css */
+.preset18 {
+  filter: invert(0.1) brightness(1.2) saturate(1.5);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset19.css */
+.preset19 {
+  filter: sepia(0.7) contrast(1.5) saturate(1.3);
+  transition: all 0.3s ease;
+}
+
+/* creative/preset20.css */
+.preset20 {
+  filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.5)) brightness(1.1);
+  transition: all 0.3s ease;
+}
