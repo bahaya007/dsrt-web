@@ -1,0 +1,119 @@
+/* portrait/preset1.css */
+.preset1 {
+  filter: brightness(1.1) contrast(1.1) saturate(1.05);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset2.css */
+.preset2 {
+  filter: brightness(1.05) saturate(1.1) contrast(1.05);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset3.css */
+.preset3 {
+  filter: contrast(1.15) brightness(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset4.css */
+.preset4 {
+  filter: saturate(1.2) brightness(1.05);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset5.css */
+.preset5 {
+  filter: brightness(1.1) contrast(1.05) drop-shadow(0 0 0.1rem rgba(0,0,0,0.1));
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset6.css */
+.preset6 {
+  filter: brightness(1.1) saturate(1.15) contrast(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset7.css */
+.preset7 {
+  filter: brightness(1.05) contrast(1.1) saturate(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset8.css */
+.preset8 {
+  filter: brightness(1.1) saturate(1.2) contrast(1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset9.css */
+.preset9 {
+  filter: saturate(1.15) brightness(1.05);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset10.css */
+.preset10 {
+  filter: brightness(1.1) contrast(1.15);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset11.css */
+.preset11 {
+  filter: brightness(1.05) saturate(1.1) contrast(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset12.css */
+.preset12 {
+  filter: brightness(1.1) contrast(1.1) saturate(1.2);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset13.css */
+.preset13 {
+  filter: brightness(1.15) saturate(1.05) contrast(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset14.css */
+.preset14 {
+  filter: brightness(1.1) saturate(1.15);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset15.css */
+.preset15 {
+  filter: brightness(1.05) contrast(1.05) saturate(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset16.css */
+.preset16 {
+  filter: brightness(1.1) saturate(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset17.css */
+.preset17 {
+  filter: brightness(1.1) contrast(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset18.css */
+.preset18 {
+  filter: brightness(1.1) saturate(1.1) drop-shadow(0 0 0.05rem rgba(0,0,0,0.1));
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset19.css */
+.preset19 {
+  filter: brightness(1.05) saturate(1.15) contrast(1.1);
+  transition: all 0.3s ease;
+}
+
+/* portrait/preset20.css */
+.preset20 {
+  filter: brightness(1.1) contrast(1.1) saturate(1.1);
+  transition: all 0.3s ease;
+}
